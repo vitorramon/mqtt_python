@@ -1,7 +1,3 @@
-Claro! Aqui está uma versão aprimorada e mais organizada do seu README, com uma estrutura clara, melhor formatação e uma linguagem mais acessível:
-
----
-
 # Estudo do Protocolo MQTT
 
 Este repositório é dedicado ao estudo do protocolo **MQTT (Message Queuing Telemetry Transport)**, amplamente utilizado em aplicações de **Internet das Coisas (IoT)** devido à sua leveza e eficiência em redes com baixa largura de banda ou energia.
